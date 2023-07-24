@@ -492,11 +492,7 @@ h1{
 }
 @media screen and (max-width:1024px) {
     .SeccionCont3{
-        background-color: #0a2540;
         padding: 90px 10px 104px;
-        display: flex;
-        justify-content: center;
-        margin-left: 0px;
     }
 }
 @media screen and (max-width: 320px) {
