@@ -282,6 +282,39 @@ h1{
     border-radius: 30px;
     box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
 }
+@media screen and (max-width: 1024px){
+    .tarCredit{
+        width: 360px;
+        height: 214.15px;
+        display: flex;
+        flex-direction: column;
+        border-radius: 25px;
+    }
+    .image{
+        width: 530px;
+        height: 448.68px;
+        display: flex;
+        flex-direction: column;
+        border-radius: 30px;
+        box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+    }
+    .phone{
+        width: 340px;
+        height: 658.01px;
+        display: flex;
+        flex-direction: column;
+        border-radius: 30px;
+        padding-top: 10px;
+    }
+    .dash{
+        width: 530px;
+        height: 448.68px;
+        display: flex;
+        flex-direction: column;
+        border-radius: 30px;
+        box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+    }
+}
 @media screen and (max-width: 320px){
     .seccion-unificada-container2{
         padding: 0px;
