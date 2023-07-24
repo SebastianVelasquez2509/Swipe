@@ -481,18 +481,21 @@ h1{
     justify-content: center;
 }
 #img2{
-    width: 470px;
+    width: 430px;
     height:340px ;
     border-radius: 20px;
 }
 #img3{
     height:319.89px;
-    width: 469.99px;
+    width: 430.99px;
     border-radius: 20px;
 }
 @media screen and (max-width:1024px) {
     .SeccionCont3{
         padding: 90px 10px 104px;
+    }
+    .ColumnDer{
+        width: 460px;
     }
 }
 @media screen and (max-width: 320px) {
